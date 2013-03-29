@@ -1,3 +1,0 @@
-Adding text in file to check git process.
-
-222 222 2222 222222 22
